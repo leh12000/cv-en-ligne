@@ -27,7 +27,7 @@ const PROFILE = {
   cv: "/cv-mamadou-traore.pdf",
   email: "mamadou.traore84@gmail.com",
   linkedin: "https://www.linkedin.com/in/mamadoutraore",
-  github: "https://github.com/mamadoutraore",
+  github: "https://github.com/leh12000",
   location: "Paris, France",
   stats: [
     { value: "5 ans", label: "d'expérience" },
@@ -884,7 +884,7 @@ const CONTACT_LINKS = [
   {
     icon: Github,
     label: "GitHub",
-    value: "@mamadoutraore",
+    value: "@leh12000",
     href: PROFILE.github,
   },
   { icon: MapPin, label: "Localisation", value: PROFILE.location, href: null },
