@@ -32,7 +32,7 @@ const PROFILE = {
   stats: [
     { value: "5 ans", label: "d'expérience" },
     { value: "24", label: "projets livrés" },
-    { value: "Paris", label: "France" },
+    { value: "Mali", label: "Bamako" },
   ],
   about:
     "Je construis des produits digitaux depuis 5 ans. Parti de l'autodidaxie, j'ai appris en livrant — une ligne de code après l'autre, un projet après l'autre, sans filet et sans diplôme pour me couvrir. Ma vision : créer des outils qui simplifient vraiment la vie des gens, où la technique s'efface derrière l'usage.",
